@@ -1,23 +1,23 @@
 # Hi, I'm Luiz Carlos Muniz 👋
 
-**Senior Full-Stack Engineer** based in Brazil (UTC-3), open to **remote** opportunities.
+**Senior Backend Engineer** based in Brazil (UTC-3), open to **remote** opportunities with global teams.
 
-I build web applications end to end: Java/Spring Boot APIs, Vue and React front-ends, relational databases, and the containers and pipelines that ship them. I care about clean architecture, automated tests and security done right.
+I design and build backend systems with Java and Spring Boot: REST APIs, microservices, relational data and caching, plus the containers, pipelines and platforms that run them in production. I care about clean architecture, automated tests and security done right.
 
 ## 🛠️ Tech I work with
 
-- **Back-end:** Java 21, Spring Boot (Security, Data JPA, OAuth2), Node.js/Express, Go
-- **Front-end:** Vue 3, TypeScript, React, Vite, Tailwind CSS, Pinia
-- **Data:** PostgreSQL, Redis, Supabase
-- **DevOps:** Docker, Docker Compose, Nginx, GitHub Actions, OpenShift
-- **Testing:** JUnit, Testcontainers, Vitest, Playwright (E2E and accessibility)
-- **Also experienced with:** Python, PHP
+- **Backend:** Java 21, Spring Boot (Security, Data JPA, OAuth2), REST APIs, microservices
+- **Data:** PostgreSQL, Redis, Flyway, Supabase
+- **DevOps & platform:** Docker, Kubernetes, OpenShift, Nginx, GitHub Actions (CI/CD)
+- **Testing:** JUnit, Mockito, Testcontainers, Playwright
+- **Frontend (when needed):** Vue 3, TypeScript, React
+- **Also experienced with:** Go, Node.js, Python, PHP
 
 ## 🔭 What I'm doing now
 
-- Building full-stack apps with Spring Boot + Vue/TypeScript
-- Exploring Go and Rust for tooling and back-end services
-- Integrating LLM APIs into real products
+- Building Spring Boot services with solid test coverage and secure auth
+- Running containerized workloads on Kubernetes and OpenShift
+- Integrating LLM APIs into real backend products
 
 ## 📫 Get in touch
 
