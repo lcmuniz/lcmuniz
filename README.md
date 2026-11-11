@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer** based in Brazil (UTC-3), open to **remote** opportunities with global teams.
 
-I design and build backend systems with Java and Spring Boot: REST APIs, microservices, relational data and caching, plus the containers, pipelines and platforms that run them in production. I care about clean architecture, automated tests and security done right.
+I design and build backend systems with Java and Spring Boot: REST APIs, microservices, relational data and caching, plus the containers, pipelines and platforms that run them in production. When a feature needs it, I also ship the frontend with Vue or React, so I can take work end to end. I care about clean architecture, automated tests and security done right.
 
 ## 🛠️ Tech I work with
 
@@ -10,7 +10,7 @@ I design and build backend systems with Java and Spring Boot: REST APIs, microse
 - **Data:** PostgreSQL, Redis, Flyway, Supabase
 - **DevOps & platform:** Docker, Kubernetes, OpenShift, Nginx, GitHub Actions (CI/CD)
 - **Testing:** JUnit, Mockito, Testcontainers, Playwright
-- **Frontend (when needed):** Vue 3, TypeScript, React
+- **Frontend:** Vue 3, TypeScript, React, Vite, Tailwind CSS
 - **Also experienced with:** Go, Node.js, Python, PHP
 
 ## 🔭 What I'm doing now
